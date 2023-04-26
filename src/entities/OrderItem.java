@@ -52,7 +52,7 @@ public class OrderItem {
 				+ String.format("%.2f", price) 
 				+ ", Quantity: " 
 				+ quantity 
-				+ "Subtotal: $ "
+				+ ", Subtotal: $ "
 				+ String.format("%.2f", subTotal());
 	}
 	
